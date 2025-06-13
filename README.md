@@ -1,1 +1,1 @@
-Site de vaquejada.
+Site de vaquejada. Linguagem principal: HTML.
